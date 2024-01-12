@@ -1,0 +1,26 @@
+.caja-gris {
+  background-color: gray; /* Color de fondo gris */
+  padding: 10px; /* Espaciado interno */
+  border-radius: 5px; /* Bordes redondeados */
+  margin-right: 200px;
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  font-size: 12px;
+  padding: 2px;
+}
+
+.container {
+  padding: 20px 10px;
+}
+.card {
+  margin: 20px 10px;
+  font-weight: 500;
+
+  padding: 0%;
+}
+
+.alerta {
+  margin-top: 0;
+  margin-bottom: 0;
+}
